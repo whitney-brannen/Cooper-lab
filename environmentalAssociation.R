@@ -1,5 +1,6 @@
 ###-------------------------------------
-###
+### Latent Factor Mixed Models
+### much of this code follows: https://bookdown.org/hhwagner1/LandGenCourse_book/WE_11.html
 ###-------------------------------------
 setwd("/Users/whitneybrannen/CooperLab/EnvironmentalAssociations/")
 
